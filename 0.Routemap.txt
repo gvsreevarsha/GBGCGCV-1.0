@@ -1,0 +1,11 @@
+Part 1-Requriement gathering 
+Part 2-Project Report
+Part 3-Design of data base
+Part 4-Folder mechanism
+Part 5-Distrubution of work load
+Part 6-Combining All Works
+Team leaders(Siddharth) need to collect all individual works and save it in his laptop.
+Part 7-Testing whole project
+Part 8-Release of version 1.0
+Part 9-Feedback
+Part 10-Update and release of version 2.0

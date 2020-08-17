@@ -1,0 +1,97 @@
+.Ash{
+	background-color:#2B3E4D;
+	color:white;
+}
+.names{
+	font-weight: bolder;
+	font-size: 18px;
+	background-color: white;
+	color: #868686;
+}
+.numbers{
+	font-size: 16px;
+	background-color: white;
+	color: #868686;
+}
+.welcomemsg{
+	color: white;
+	padding-top: 13px;
+	font-weight: lighter;
+	font-size: 125%;
+}
+.gitimg{
+	margin-left:-15px;
+	padding: 5px;
+	background-color: white;
+}
+.Title{
+	color: #ffffff; padding:5px; font-weight: lighter; font-size: 150%
+}
+.Up{
+	font-size: 170%
+}
+.subheading{
+	color: #2b3c4f;
+}
+.runningtext{
+	background-color: white;
+	color: #868686;
+	padding: 20px;
+}
+.spltext{
+	color: #187bcd; font-weight: bolder;
+}
+a.nodec{
+	text-decoration: none;
+	color: white;
+}
+a.next:hover{
+	text-decoration: none;
+	color: #187bcd;
+}
+a.nodec:hover{
+	text-decoration: none;
+	color: white;
+}
+.collapsible {
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: 1px white;
+    outline: none;
+    font-size: 15px;
+}
+
+.active, .collapsible:hover {
+    background-color: white;
+}
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+tr.notice:nth-child(even) {background: #edf2f6; text-align: center;}
+tr.notice {text-align: center;}
+tr.notice-top {background-color: #2b3e4d; color: white;}
+div.back{
+	background-color:#edf2f6;
+}
+select#year{
+	background-color: #2B3E4D;
+	color: white;
+	font-size: 22px;
+}
+.hidden{
+	visibility: hidden;
+}
+hr.text-white{
+	border: 0;
+	border-top: 2px solid #2B3E4D;
+	margin: 20px 0;
+	visibility:visible;
+}
+.btn-blue{
+	background-color: #2b3c4f;
+	color: white;
+}
